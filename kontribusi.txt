@@ -1,5 +1,9 @@
 Kelompok 7 ABP (Waroeng Djajan)
 
+Perubahan:
+Perubahan pada fitur "contact" menjadi "pesan sekarang". "pesan sekarang" hanya dapat diakses ketika user sudah login
+pada Waroeng djajan
+
 Anggota:
 Andhika Candra Prasasti(13011900394)
 Dhiya Aghniyaar Rahman(1301190283)
