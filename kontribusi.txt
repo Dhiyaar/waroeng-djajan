@@ -1,0 +1,14 @@
+Kelompok 7 ABP (Waroeng Djajan)
+
+Anggota:
+Andhika Candra Prasasti(13011900394)
+Dhiya Aghniyaar Rahman(1301190283)
+Muhammad Rifky Anami(1301190357)
+Muhammad Satria Pradananta(1301190243)
+
+Kontribusi anggota:
+
+Andhika: Membuat registrasi dan login serta database
+Satria: membuat fitur edit profile
+Dhiya: Membuat view (tampilan)
+Rifky: Membuat view (tampilan)
